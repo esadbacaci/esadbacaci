@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esadbacaci" alt="esadbacaci" /></a> </p>
-<img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
+<img style="width:50px" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
 - 🌱 I’m currently learning **Asp.Net Core MVC**
 
 - 💬 Ask me about **Web**
